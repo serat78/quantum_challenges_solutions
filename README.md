@@ -1,2 +1,2 @@
 # quantum_challenges
-This repositoryincludes the solutions of all the quantum challenges I have attended upto now.
+This repository includes the solutions of all the quantum challenges I have attended upto now.
